@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crossword", "Crossword\Crossword.csproj", "{6A65FE5B-86D0-41D5-9E8B-575B0E08D191}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrosswordFormatter", "CrosswordFormatter\CrosswordFormatter.csproj", "{F922022B-F336-40FD-AF13-D0669FAE9F36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A65FE5B-86D0-41D5-9E8B-575B0E08D191}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A65FE5B-86D0-41D5-9E8B-575B0E08D191}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A65FE5B-86D0-41D5-9E8B-575B0E08D191}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A65FE5B-86D0-41D5-9E8B-575B0E08D191}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F922022B-F336-40FD-AF13-D0669FAE9F36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F922022B-F336-40FD-AF13-D0669FAE9F36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F922022B-F336-40FD-AF13-D0669FAE9F36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F922022B-F336-40FD-AF13-D0669FAE9F36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8D7175E-1A22-416F-BE3C-65969648508B}
+	EndGlobalSection
+EndGlobal
